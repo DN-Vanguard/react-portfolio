@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dn-vanguard.github.io/react-portfolio/static/css/main.a617e044.chunk.css",
+    "main.js": "/dn-vanguard.github.io/react-portfolio/static/js/main.6961f68d.chunk.js",
+    "main.js.map": "/dn-vanguard.github.io/react-portfolio/static/js/main.6961f68d.chunk.js.map",
+    "runtime-main.js": "/dn-vanguard.github.io/react-portfolio/static/js/runtime-main.ac23efa1.js",
+    "runtime-main.js.map": "/dn-vanguard.github.io/react-portfolio/static/js/runtime-main.ac23efa1.js.map",
+    "static/js/2.e91b3db8.chunk.js": "/dn-vanguard.github.io/react-portfolio/static/js/2.e91b3db8.chunk.js",
+    "static/js/2.e91b3db8.chunk.js.map": "/dn-vanguard.github.io/react-portfolio/static/js/2.e91b3db8.chunk.js.map",
+    "static/js/3.89e1a2bd.chunk.js": "/dn-vanguard.github.io/react-portfolio/static/js/3.89e1a2bd.chunk.js",
+    "static/js/3.89e1a2bd.chunk.js.map": "/dn-vanguard.github.io/react-portfolio/static/js/3.89e1a2bd.chunk.js.map",
+    "index.html": "/dn-vanguard.github.io/react-portfolio/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/dn-vanguard.github.io/react-portfolio/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e91b3db8.chunk.js.LICENSE.txt": "/dn-vanguard.github.io/react-portfolio/static/js/2.e91b3db8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dn-vanguard.github.io/react-portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac23efa1.js",
+    "static/js/2.e91b3db8.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6961f68d.chunk.js"
+  ]
+}

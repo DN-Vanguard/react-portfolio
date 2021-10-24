@@ -7,7 +7,7 @@
   --Oikawa: lightseagreen;
   --Uniform: #f2f4f1;
   --Eyes: black;
-  --cloudBlue: red;
+  --cloudBlue: lightgrey;
   --Jacket: darkgrey;
   --shadowAnimateSpeed: 0.6s;
 }
@@ -84,7 +84,7 @@ li {
 .page-section {
   margin: 50px auto;
   padding: 0 50px;
-  max-width: 1000px;
+  max-width: 1200px;
 }
 
 h2 {
@@ -107,8 +107,8 @@ h2 {
 }
 
 .profile-pic {
-  width: 200px;
-  border-radius: 100%;
+  width: 400px;
+  border-radius: 20%;
   box-shadow:
     3px 3px 6px rgb(0 0 0 / 33%),
     -3px -3px 6px rgb(255 255 255 / 100%);
@@ -129,13 +129,14 @@ h4 {
   padding: 10px;
   margin-bottom: 10px;
   margin-top: 10px;
+  text-align: center;
 }
 
 .all-projects-container {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  max-width: 1000px;
+  max-width: 1200px;
 }
 
 .project-card {
@@ -148,7 +149,9 @@ h4 {
 }
 
 img {
-  width: 100%;
+  width: 450px;
+  height: 300px;
+  margin-left: 20px;
   box-shadow:
     3px 3px 6px rgb(0 0 0 / 33%),
     -3px -3px 6px rgb(255 255 255 / 100%);
@@ -292,6 +295,20 @@ footer a:hover {
     display: block;
   }
 
+  .lines{
+    border-right: 10px solid var(--Jacket);
+  }
+  h2 {
+    text-align: center;
+  }
+  h4{
+    text-align: center;
+  }
+  img {
+    width: 250px;
+    margin-left: 40px;
+
+  }
   .nav-link {
     margin: 0 5px;
     font-size: 0.7rem;
@@ -305,6 +322,7 @@ footer a:hover {
   .profile-pic {
     display: block;
     margin: 0 auto;
+    width: 300px;
   }
 
   p {

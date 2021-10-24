@@ -1,6 +1,7 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { faGithubSquare } from '@fortawesome/free-brands-svg-icons';
+import { faFacebook } from '@fortawesome/free-brands-svg-icons';
 
 export default function Footer() {
 
@@ -12,8 +13,8 @@ export default function Footer() {
 			<a href="https://www.linkedin.com/in/domiltannguyen/" target="_blank" rel="noreferrer">
 				<FontAwesomeIcon icon={faLinkedin} size="3x" />
 			</a>
-			<a href="https://github.com/DN-Vanguard/react-portfolio" target="_blank" rel="noreferrer">
-				<FontAwesomeIcon icon={faGithubSquare} size="3x" />
+			<a href="https://www.facebook.com/Domiltan" target="_blank" rel="noreferrer">
+				<FontAwesomeIcon icon={faFacebook} size="3x" />
 			</a>
 		</footer>
 	);

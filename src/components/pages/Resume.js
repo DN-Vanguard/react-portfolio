@@ -1,10 +1,13 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faFile } from '@fortawesome/free-regular-svg-icons';
+
 export default function Resume() {
 
 	return (
 		<div className="page-section">
 			<h2 className="lines">Resume</h2>
 			<a href="https://docs.google.com/document/d/1ezROqnPzIGEyag27SLpjKu4gnvPUdN1K/edit?usp=sharing&ouid=114747128639915416675&rtpof=true&sd=true" target="_blank" rel="noreferrer">
-				<h3>Downloadable PDF <span>icon PlaceHolder</span></h3>
+				<h3>Downloadable PDF <span><FontAwesomeIcon icon={faFile} size="1x"/></span></h3>
 			</a>
 			<div className="flex-lists">
 				<div>
